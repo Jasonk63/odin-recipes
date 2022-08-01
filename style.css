@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Verdana, Helvetica;
+  background-color: #d0d4f880;
+}
+
+.square-photo {
+  height: 500px;
+  width: 500px
+}
+
+.rect-photo {
+  height: 398px;
+  width: 596px;
+}
+
+.ingredients {
+  background-color:rgb(243, 248, 255);
+  border-style: solid;
+  border-width: 4px;
+  line-height:25px;
+  padding:25px;
+  display: table;
+  text-indent: 25px;
+  list-style-position: inside;
+}
